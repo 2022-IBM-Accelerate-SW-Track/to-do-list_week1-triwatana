@@ -20,15 +20,19 @@ export default class About extends Component {
             <div className="centered">
               <div className="name_title">Tri Watanasuparp</div>
               <div className="brief_description">
-                I'm a rising junior at Northeastern University pursuing a
-                combined major in computer science and business administration.
-                In particular, I enjoy working on impactful projects that lie at
-                the intersection of technology, business, and design.
+                <b>Bio:</b> I'm a rising junior at Northeastern University
+                pursuing a combined major in computer science and business
+                administration. I enjoy working on impactful
+                projects that lie at the intersection of technology, business,
+                and design.
                 <br />
                 <br />
-                When I'm not in front of a computer screen, I'm probably
-                learning some new dance moves, taking photos on my Canon EOS 77D
-                camera, or listening to inspirational podcasts.
+                <b>Interests:</b> When I'm not in front of a computer screen,
+                I'm probably learning some new dance moves, taking photos on my
+                Canon EOS 77D camera, or listening to inspirational podcasts.
+                <br />
+                <br />
+                <b>Fun fact:</b> I'm a member of the Kinematix Dance Troupe :)  
               </div>
             </div>
           </div>
